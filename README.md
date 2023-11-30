@@ -7,7 +7,7 @@ If this is your first time pulling from the repository then there are some initi
 1. Make sure you have [Git](https://git-scm.com/downloads) installed.
 2. Go to your `.minecraft/mods/` folder.
 3. Click on the address bar at the top and type `cmd` and press Enter.
-4. Type `git clone https://github.com/BotEthan/cobblemon-mods.git .`.
+4. Type `git clone https://github.com/BotEthan/cobblemon-mods.git .`
 5. Wait for it to download all of the mods.
 
 If this is not the first time doing this then all you need to do is:
